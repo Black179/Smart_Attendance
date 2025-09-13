@@ -1,0 +1,1 @@
+ D:\\SIH\ demo1\\Smart_Attendance-master\\Smart_Attendance-master\\Smart_Attendance-main\\sih_role_app\\.dart_tool\\flutter_build\\d0ae5b2f193ff8517a1b1470a20a1a88\\native_assets.json: 
