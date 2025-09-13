@@ -1,0 +1,26 @@
+﻿name: sih_role_app
+description: A demo app with Student, Teacher, Driver roles
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  http: ^1.1.0
+  camera: ^0.10.5+5
+  flutter_blue_plus: ^1.32.8
+  shared_preferences: ^2.2.2
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  fl_chart: ^0.68.0
+  flutter_secure_storage: ^9.0.0
+  connectivity_plus: ^5.0.2
+  image: ^4.1.7
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+flutter:
+  uses-material-design: true
